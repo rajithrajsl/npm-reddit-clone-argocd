@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: reddit-clone-app
-          image: mightyleo/npm-nodejs:1.0-21
+          image: mightyleo/npm-nodejs:1.0-28
           resources:
             limits:
               cpu: "1"
